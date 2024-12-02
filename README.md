@@ -33,7 +33,7 @@ Por último, se categorizaron los productos de la siguiente forma:
 - Análisis e investigación
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Documento:_Generación_visual_del_kardex-grey)](https://github.com/csanchezacev/Analisis-de-Datos-Informe-Rotacion-de-Inventario-Almacen-Electrocaribe/blob/main/Rotacion_Productos.ipynb)
+[![portfolio](https://img.shields.io/badge/Documento:Rotación_Inventario-grey)](https://github.com/csanchezacev/Analisis-de-Datos-Informe-Rotacion-de-Inventario-Almacen-Electrocaribe/blob/main/Rotacion_Productos.ipynb)
 
 ## Screenshots
 
